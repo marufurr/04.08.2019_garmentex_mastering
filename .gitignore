@@ -1,0 +1,6 @@
+.env
+vendor/*
+storage/app/public/files/*
+storage/framework/*
+storage/logs/*
+config/database.php
